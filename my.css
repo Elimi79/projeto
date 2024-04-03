@@ -47,6 +47,15 @@ article {
 article>h2{
     background-image: linear-gradient(to right, rgba(3, 161, 253, 0.292), transparent );
 }
+article>a{
+    
+    font-size: 3em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-align: center;
+
+
+}
 
 img{
     width: 50vw; 
